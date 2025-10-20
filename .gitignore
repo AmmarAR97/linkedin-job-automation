@@ -1,0 +1,86 @@
+# =====================================
+# Python
+# =====================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+.eggs/
+.installed.cfg
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =====================================
+# Playwright
+# =====================================
+# Browser binaries & traces
+playwright/.cache/
+playwright-report/
+test-results/
+blob-report/
+trace.zip
+trace.json
+
+# Session storage or auth files
+session.json
+session_storage.json
+cookies.json
+
+# Recordings, screenshots, videos
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webm
+*.mp4
+
+# =====================================
+# System / Editor / Logs
+# =====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+
+# =====================================
+# Env & Credentials
+# =====================================
+.env
+.env.local
+.env.development
+.env.production
+*.pem
+*.key
+*.crt
+config.yaml
+
+# =====================================
+# OS / Misc
+# =====================================
+*.swp
+*.swo
+*.orig
+*.rej
+*~
+*user_data
+*.json

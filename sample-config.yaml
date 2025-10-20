@@ -1,0 +1,18 @@
+job_search:
+  max_jobs: 10
+  url: "https://www.linkedin.com/jobs/search/?currentJobId=4245477934&f_AL=true&f_E=3%2C4&f_PP=105214831&f_T=25169%2C25183&f_TPR=r86400&geoId=105214831&keywords=Python&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD&spellCorrectionEnabled=true"
+  keywords: ["Python Developer", "Backend Engineer"]
+  years_of_experience: 3
+  education_level : "Bachelor's Degree"
+  work_authorization : "Yes"
+  require_sponsorship : "No"
+  willing_to_relocate : "Yes"
+  notice_period : "15"
+  salary_expectation : "3000000"
+  current_salary : "2000000"
+  previously_worked : "No"
+  reference_check : "Yes"
+  certifications : "None"
+
+automation:
+  headless: false

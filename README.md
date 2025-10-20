@@ -93,8 +93,10 @@ If you extend or refactor, prefer small, testable functions and add unit tests f
 - Write tests for parsing heuristics and form-handling changes.
 - Add clear change descriptions and a rationale when modifying fill heuristics.
 
+
 ## License
-Suggested: MIT. Add a LICENSE file when you decide.
+
+This project is licensed under the [MIT License](https://github.com/AmmarAR97/linkedin-job-automation/blob/main/LICENSE).
 
 ## Useful references in this repo
 - Entry: [`main`](main.py) — [main.py](main.py)
